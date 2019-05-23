@@ -1,0 +1,14 @@
+D:\GitHub\BankApplication\BankApplication\bin\Release\netcoreapp2.2\BankApplication.deps.json
+D:\GitHub\BankApplication\BankApplication\bin\Release\netcoreapp2.2\BankApplication.runtimeconfig.json
+D:\GitHub\BankApplication\BankApplication\bin\Release\netcoreapp2.2\BankApplication.runtimeconfig.dev.json
+D:\GitHub\BankApplication\BankApplication\bin\Release\netcoreapp2.2\BankApplication.dll
+D:\GitHub\BankApplication\BankApplication\bin\Release\netcoreapp2.2\BankApplication.pdb
+D:\GitHub\BankApplication\BankApplication\bin\Release\netcoreapp2.2\BankLibrary.dll
+D:\GitHub\BankApplication\BankApplication\bin\Release\netcoreapp2.2\BankLibrary.pdb
+D:\GitHub\BankApplication\BankApplication\obj\Release\netcoreapp2.2\BankApplication.csprojAssemblyReference.cache
+D:\GitHub\BankApplication\BankApplication\obj\Release\netcoreapp2.2\BankApplication.csproj.CoreCompileInputs.cache
+D:\GitHub\BankApplication\BankApplication\obj\Release\netcoreapp2.2\BankApplication.AssemblyInfoInputs.cache
+D:\GitHub\BankApplication\BankApplication\obj\Release\netcoreapp2.2\BankApplication.AssemblyInfo.cs
+D:\GitHub\BankApplication\BankApplication\obj\Release\netcoreapp2.2\BankApplication.csproj.CopyComplete
+D:\GitHub\BankApplication\BankApplication\obj\Release\netcoreapp2.2\BankApplication.dll
+D:\GitHub\BankApplication\BankApplication\obj\Release\netcoreapp2.2\BankApplication.pdb

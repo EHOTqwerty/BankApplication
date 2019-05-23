@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work\\Learning\\BankApplication\\BankApplication.csproj": {}
+    "D:\\GitHub\\BankApplication\\BankApplication\\BankApplication.csproj": {}
   },
   "projects": {
-    "D:\\Work\\Learning\\BankApplication\\BankApplication.csproj": {
+    "D:\\GitHub\\BankApplication\\BankApplication\\BankApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\Learning\\BankApplication\\BankApplication.csproj",
+        "projectUniqueName": "D:\\GitHub\\BankApplication\\BankApplication\\BankApplication.csproj",
         "projectName": "BankApplication",
-        "projectPath": "D:\\Work\\Learning\\BankApplication\\BankApplication.csproj",
+        "projectPath": "D:\\GitHub\\BankApplication\\BankApplication\\BankApplication.csproj",
         "packagesPath": "C:\\Users\\qwert\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\Learning\\BankApplication\\obj\\",
+        "outputPath": "D:\\GitHub\\BankApplication\\BankApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",
